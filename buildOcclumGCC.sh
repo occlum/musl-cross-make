@@ -10,3 +10,4 @@ rm musl-1.1.20 -rf
 cd ../
 
 make -j
+make install -j
